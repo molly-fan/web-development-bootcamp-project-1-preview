@@ -1,0 +1,25 @@
+body {
+    margin: 0 10% 0 10%;
+    color: #4d5a7a;
+    background-color: #F4F4F2; 
+    font-family: Candara; 
+    font-weight: normal; 
+    letter-spacing: 1px
+}
+
+
+hr {
+    width: 90%;
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, #F4F4F2, #BBBFCA, #F4F4F2);
+}
+
+h1{
+    vertical-align: middle;
+    color: #293B5F;
+}
+
+h3{
+    color: #293B5F;
+}
